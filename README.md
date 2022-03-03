@@ -19,13 +19,17 @@ To classify the data I used Support Vector Machines (SVMs). Type of SVM: Cost-Su
 
 If you wish to follow along my code and want to see my in-dept comments, check out my [blog post](https://erolgelbul.com/project-blog/oil-data-classification).
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- TECH -->
 ## Software and Libraries
 
-Software: Jupyter Notebook (Language: python3)
+Software: [Jupyter Notebook](https://jupyter.org/) (Language: python3)
 
 Packages: Numpy, Pandas, Matplotlib, Seaborn, Sklearn
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
