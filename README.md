@@ -25,7 +25,7 @@ If you wish to follow along my code and want to see my in-dept comments, check o
 <!-- TECH -->
 ## Software and Libraries
 
-Software: [Jupyter Notebook](https://jupyter.org/) (Language: python3)
+IDE: [Jupyter Notebook](https://jupyter.org/) (Language: python3)
 
 Packages: Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 
