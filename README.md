@@ -7,6 +7,8 @@
 12-dimensional dataset from [inverseprobability](https://inverseprobability.com/3PhaseData.html) is a physics-based simulation output of a non-invasive monitoring system.
 It is used to determine the quantitiy of oil in a multi-phase pipeline cotaining a mixture of oil, water and gas.
 
+If you wish to follow along my code and want to see my in-dept comments, check out my [blog post](https://erolgelbul.com/project-blog/oil-data-classification).
+
 Datasets include 3 classes:
 * Homogenous
 * Annular
@@ -16,8 +18,6 @@ The training set consists of 1000 instances, 343 labeled as 1, 316 labeled as 2 
 it has 300 instances.  Data does not require preprocessing or cleansing but it requires normalisation.
 
 To classify the data I used Support Vector Machines (SVMs). Type of SVM: Cost-Support Vector Classifier). Kernel function used: Guassian radial basis function (RBF).
-
-If you wish to follow along my code and want to see my in-dept comments, check out my [blog post](https://erolgelbul.com/project-blog/oil-data-classification).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
